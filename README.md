@@ -1,4 +1,2 @@
-# proyecto1-analisisexcel-manuel
+# proyecto1-analisisexcel
 Análisis de datos y dashboard interactivo en excel
-hola
-hola desde local
